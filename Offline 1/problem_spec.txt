@@ -1,0 +1,4 @@
+Queueing System Simulation
+
+Write a C program for the M/M/1 queue simulation.
+Details breakdown can be found in 1.4 section.
