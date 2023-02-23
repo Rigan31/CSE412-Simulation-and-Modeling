@@ -1,0 +1,34 @@
+Enter the number of generation:1
+Probability of 0 neutron:  0.5895
+Probability of 1 neutron:  0.206
+Probability of 2 neutron:  0.1315
+Probability of 3 neutron:  0.073
+Probability of 4 neutron:  0.0
+
+Enter the number of generation:2
+Probability of 0 neutron:  0.7816
+Probability of 1 neutron:  0.087
+Probability of 2 neutron:  0.0675
+Probability of 3 neutron:  0.0416
+Probability of 4 neutron:  0.0118
+
+Enter the number of generation:3
+Probability of 0 neutron:  0.8638
+Probability of 1 neutron:  0.0462
+Probability of 2 neutron:  0.0371
+Probability of 3 neutron:  0.0277
+Probability of 4 neutron:  0.0135
+
+Enter the number of generation:4
+Probability of 0 neutron:  0.9151
+Probability of 1 neutron:  0.0286
+Probability of 2 neutron:  0.0226
+Probability of 3 neutron:  0.0157
+Probability of 4 neutron:  0.0075
+
+Enter the number of generation:5
+Probability of 0 neutron:  0.9426
+Probability of 1 neutron:  0.018
+Probability of 2 neutron:  0.0159
+Probability of 3 neutron:  0.0116
+Probability of 4 neutron:  0.005
